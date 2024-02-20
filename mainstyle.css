@@ -1,0 +1,132 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header {
+	position: fixed; top: 30px; width: 100%; left: 0;
+	z-index: 9999;
+
+}
+.btn-outline-success .o
+{
+	color: #8EB63E;
+	
+}
+.btn-outline-success:hover> .o
+{
+	color: white;
+	
+}
+#vung1
+{
+	border-radius: 20px;
+	padding: 100px 15px; 
+	position: relative;
+	margin-top: -50px;
+	z-index: 8888;
+}
+.round-lg
+{
+	border-radius: 20px;
+}
+.carousel-item .container .col-2
+{
+	color: #8EB63E
+}
+.carousel-item .container .col-1
+{
+	color: #9B9B9B;
+	text-decoration: line-through
+}
+.carousel-item .btn-primary
+{
+	background-color: #8EB63E;
+	display: inline-block;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+	padding: 10px 42px;
+	border-radius: 25px;
+	font-size: 24px;
+}
+.container .row .pl-3 p
+{
+	font-size: 24pt
+}
+#vung1 .row .row .col-2
+{
+	color: #8EB63E
+}
+#vung1 .row .row .col-1
+{
+	color: #9B9B9B;
+	text-decoration: line-through;
+}
+
+#vung1 .container .row .col-6
+{
+	padding: 20px;
+}
+#vung2
+{
+	border-radius: 20px;
+	padding: 100px 15px; 
+	position: relative;
+	margin-top: 300px;
+	z-index: 8888;
+}
+#vung2 .row .row .col-2
+{
+	color: #8EB63E
+}
+#vung2 .row .row .col-1
+{
+	color: #9B9B9B;
+	text-decoration: line-through;
+}
+
+#vung2 .container .row .col-6
+{
+	padding: 20px;
+}
+#vung3
+{
+	border-radius: 20px;
+	padding: 100px 15px; 
+	position: relative;
+	margin-top: 300px;
+	z-index: 8888;
+}
+#vung2 .row .row .col-2
+{
+	color: #8EB63E
+}
+#vung3 .row .row .col-1
+{
+	color: #9B9B9B;
+	text-decoration: line-through;
+}
+
+#vung3 .container .row .col-6
+{
+	padding: 20px;
+}
+#vung4
+{
+	background-color: black;
+	color: white;
+}
+.cantrai
+{
+	justify-content: flex-start;
+}
+.container .btn-primary
+{
+	background-color: #8EB63E;
+	display: inline-block;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+	padding: 10px 42px;
+	border-radius: 25px;
+	font-size: 24px;
+}
